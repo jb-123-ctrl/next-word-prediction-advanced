@@ -31,8 +31,8 @@ The system is built using **LSTM, GRU, and a Hybrid LSTM–GRU architecture with
 - TensorFlow / Keras
 - NumPy
 - NLTK
-- Streamlit (deployment – upcoming)
-
+- Streamlit (deployment )
+live -https://next-word-prediction-advanced-k3udgbt3nptzqmzdbunax4.streamlit.app/
 ---
 
 ## 📁 Project Structure
